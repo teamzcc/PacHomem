@@ -1,0 +1,75 @@
+# depslib dependency file v1.0
+1458071388 source:d:\paulo\onedrive\programas\pachomem\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<conio.h>
+	<time.h>
+	"utils.h"
+	"abre_mapa.h"
+	"Personagem.h"
+	"Fantasma.h"
+	"menu.h"
+
+1457700958 d:\paulo\onedrive\programas\pachomem\abre_mapa.h
+
+1457985454 d:\paulo\onedrive\programas\pachomem\utils.h
+	<windows.h>
+	<iostream>
+	<string>
+	<sstream>
+	<windows.h>
+	<conio.h>
+	<cstdio>
+	<stdio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1458047261 d:\paulo\onedrive\programas\pachomem\personagem.h
+
+1457985474 d:\paulo\onedrive\programas\pachomem\fantasma.h
+
+1457715647 source:c:\users\millas_aspire\documents\ufsj\outros\pachomem\menu.cpp
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1457723102 source:c:\users\millas_aspire\documents\ufsj\outros\pachomem\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"utils.h"
+	"abre_mapa.h"
+	"Personagem.h"
+	"Fantasma.h"
+	"menu.h"
+
+1457699428 c:\users\millas_aspire\documents\ufsj\outros\pachomem\utils.h
+	<windows.h>
+	<iostream>
+	<string>
+	<sstream>
+	<windows.h>
+	<conio.h>
+	<cstdio>
+	<stdio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1457700958 c:\users\millas_aspire\documents\ufsj\outros\pachomem\abre_mapa.h
+
+1457704562 c:\users\millas_aspire\documents\ufsj\outros\pachomem\personagem.h
+
+1457712312 c:\users\millas_aspire\documents\ufsj\outros\pachomem\fantasma.h
+
+1457723102 c:\users\millas_aspire\documents\ufsj\outros\pachomem\menu.h
+
+1458070639 d:\paulo\onedrive\programas\pachomem\menu.h
+
